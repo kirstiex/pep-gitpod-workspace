@@ -1,3 +1,4 @@
+---
 # build the project
 tasks:
   - name: Workspace Setup
@@ -7,3 +8,8 @@ tasks:
 vscode:
   extensions:
     - vscjava.vscode-java-pack
+    - redhat.java
+    - vscjava.vscode-java-debug
+    - vscjava.vscode-maven
+    - vscjava.vscode-java-dependency
+    - vscjava.vscode-java-test
